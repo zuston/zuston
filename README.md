@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Big data data engineer in IQIYI. 
+- Now focus on machine learning system and virtual file system on Hadoop and Yarn.
